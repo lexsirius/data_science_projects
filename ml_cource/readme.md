@@ -1,4 +1,4 @@
-## mashine learning course
+## Mashine learning course
 
 This repository consists labs of mashine learning course at university. 
 There are basic algorithms of ML: linear regression and classification, knn, decision tree, pca, kmeans.
