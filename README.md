@@ -17,3 +17,10 @@ In <b>backtest_linear_regr</b> file a model for predicting the growth dynamics o
 -----------
 ### image_processing and ml_cource
 These repos contains notebooks of university courses.
+
+<b>Image processing</b> contains color and brightness correction and arithmetic operations on channels (RGB).
+
+In <b>ml_cource</b> directory present a basic algorithms of machine learning.
+
+-----------
+### price_analysis
