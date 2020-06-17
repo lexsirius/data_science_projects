@@ -11,4 +11,4 @@ There are files in listed directories, whose were created on summer practice in 
 
 -----------
 #### image_processing and ml_cource
-Its repos contains notebooks of university cources.
+These repos contains notebooks of university courses.
