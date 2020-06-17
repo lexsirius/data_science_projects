@@ -24,3 +24,4 @@ In <b>ml_cource</b> directory present a basic algorithms of machine learning.
 
 -----------
 ### price_analysis
+Transformation of raw data into the necessary form for analysis, construction of the distribution of the data.
