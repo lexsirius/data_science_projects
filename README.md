@@ -9,7 +9,9 @@ There are files in listed directories, whose were created on summer practice in 
 The practice took place in the forecasting and operational planning department.
 
 <b>Forecast algorithm</b> is the algorithm for adjusting the monthly forecast based on the average share of growth over the past similar periods.
+
 <b>Statmodels examples</b> contains cases with application of forecasting models from statsmodels module such as AR, ARMA, ARIMA and SARIMAX (using exogenous parameters) for monthly forecasting the dynamics of the growth of acquiring turns.
+
 In <b>backtest_linear_regr</b> file a model for predicting the growth dynamics of the portfolio of individuals' liabilities was built using linear regression (scikit-learn).
 
 -----------
